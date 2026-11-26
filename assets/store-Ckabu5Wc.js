@@ -1,0 +1,1 @@
+import{h as e,j as t}from"./format-Jk3ytAoO.js";import{t as n}from"./telegram-C3MpN8tD.js";var r=t(t=>({user:null,async load(){let r=await e.getUser(),i=n.user();t({user:i?{...r,...i}:r})}}));export{r as t};

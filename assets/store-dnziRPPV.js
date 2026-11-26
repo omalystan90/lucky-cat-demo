@@ -1,0 +1,1 @@
+import{h as e,j as t}from"./format-Jk3ytAoO.js";var n=t((t,n)=>({items:[],async load(){t({items:await e.getNotifications()})},markRead(){n().items.some(e=>!e.read)&&(t({items:n().items.map(e=>({...e,read:!0}))}),e.markNotificationsRead())}})),r=e=>e.items.some(e=>!e.read);export{n,r as t};

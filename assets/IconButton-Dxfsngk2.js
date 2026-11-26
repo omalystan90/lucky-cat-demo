@@ -1,0 +1,1 @@
+import{c as e,l as t}from"./format-Jk3ytAoO.js";var n=t();function r({icon:t,label:r,className:i=``,...a}){return(0,n.jsx)(`button`,{type:`button`,"aria-label":r,className:`pressable grid size-11 shrink-0 place-items-center rounded-full border-[length:var(--outline-bold)] border-ink bg-paper-light ${i}`,...a,children:(0,n.jsx)(e,{name:t})})}export{r as t};
